@@ -1,0 +1,26 @@
+/* You can add global styles to this file, and also import other style files */
+
+/* @import "~bootstrap/dist/css/bootstrap.min.css" */
+
+.footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 50px;
+    background-color: aquamarine;
+    text-align: center;
+    color: blue;
+    
+}
+
+/* Modify the backgorund color */ 
+ .navbar-custom { 
+    background-color: aquamarine; 
+    color: #FFFFFF;
+} 
+
+a{
+   font-family: Georgia, 'Times New Roman', Times, serif;  
+   color: blue;
+}
+ 
